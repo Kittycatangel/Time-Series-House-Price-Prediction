@@ -2,14 +2,8 @@
 # Time Series Analysis and Modeling - Predicting Best Areas to Invest in Brooklyn, NY 
 
 
-## Table of contents
-* [Project Overview](#project-overview)
-* [Statistical Methods](#statistical-methods)
-* [Project Workflow](#project-workflow)
-* [Summary](#summary)
 
-
-## Project Overview
+## Overview
 
 Brooklyn, one of the five boroughs in New York City, is increasingly favored by investors and home buyers because of the relatively lower price (than Manhattan), larger space and the convenience to the city life. It is diverse by many metrics, which keeps so dynamic and interesting.  
 
@@ -23,18 +17,6 @@ In this analysis, our goal is to provide you 5 zip codes/neighborhoods that coul
 
 * Time Series Modeling with SARIMA
 
-## Project Workflow
-
-![process](./images/timeseriesmodelprocess.png)
-
-
-## Summary:
-
-Based on our model, here is the ROI table and the top zipcodes with highest growth potential.
-
-![ROI](./images/ROI.png)
-
-![zipcodes](./images/brooklyn_5_best_zip.JPG)
 
 Future Considerations
 
@@ -43,16 +25,9 @@ There might be different metrics to evaluate ROI for rental vs re-sale such as p
 A linear model with more additional features such as federal interest rate, house market safety score, etc. is more accurate than pure time series model.
 
 
-### [Presentation](https://github.com/bonniema/House-Price-Prediction-with-Time-Series/blob/master/Brooklyn_House_Price_Time_Series.pptx)
-
-### [Notebook](https://github.com/bonniema/House-Price-Prediction-with-Time-Series/blob/master/TimeSeries_Modeling_Analysis.ipynb)
-
-### [Check out the blog post related to this project](https://towardsdatascience.com/time-series-modeling-with-arima-to-predict-future-house-price-9b180c3bbd2f)
 
 
 
 
 
 
-
-"# Time-Series-House-Price-Prediction" 
