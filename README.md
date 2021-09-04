@@ -31,4 +31,3 @@ A linear model with more additional features such as federal interest rate, hous
 
 
 
-"# Time-Series-House-Price-Prediction" 
