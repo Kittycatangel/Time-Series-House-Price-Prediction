@@ -3,7 +3,7 @@
 
 
 
-## verview
+## Overview
 
 Brooklyn, one of the five boroughs in New York City, is increasingly favored by investors and home buyers because of the relatively lower price (than Manhattan), larger space and the convenience to the city life. It is diverse by many metrics, which keeps so dynamic and interesting.  
 
