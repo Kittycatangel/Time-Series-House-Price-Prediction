@@ -17,18 +17,6 @@ In this analysis, our goal is to provide you 5 zip codes/neighborhoods that coul
 
 * Time Series Modeling with SARIMA
 
-## Project Workflow
-
-![process](./images/timeseriesmodelprocess.png)
-
-
-## Summary:
-
-Based on our model, here is the ROI table and the top zipcodes with highest growth potential.
-
-![ROI](./images/ROI.png)
-
-![zipcodes](./images/brooklyn_5_best_zip.JPG)
 
 Future Considerations
 
